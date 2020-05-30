@@ -19,3 +19,5 @@ Minimum Requirments:
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 
 * Must properly utilize Bootstrap components and grid system.
+
+https://collin-hodgson.github.io/responsiveportfolio/index.html
