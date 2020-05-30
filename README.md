@@ -21,3 +21,5 @@ Minimum Requirments:
 * Must properly utilize Bootstrap components and grid system.
 
 https://collin-hodgson.github.io/responsiveportfolio/index.html
+
+<img width="959" alt="Capture" src="https://user-images.githubusercontent.com/64516562/83315733-35c36c00-a1df-11ea-996c-4c9c4da7e14a.PNG">
