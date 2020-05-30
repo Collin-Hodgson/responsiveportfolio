@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    font-size: large;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+p {
+    font-size: 22px;
+}
